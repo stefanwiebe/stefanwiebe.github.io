@@ -20,6 +20,8 @@ mp3 embed
 
 <audio src="https://drive.google.com/file/d/1rztmooNmzDiLrM_XYtI_p8j_IlUPhPNd/preview" controls preload></audio>
 
+<audio src="https://stefanwiebe.com/Stereotype_FinalMix.mp3" controls preload></audio>
+
 
 <iframe src="https://drive.google.com/file/d/1rztmooNmzDiLrM_XYtI_p8j_IlUPhPNd/preview" width="320" height="60"></iframe>
 
