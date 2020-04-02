@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "My Work"
-categories: jekyll update
 drive1Id: 13syBX6dVuskWatuMuEOT28ZLb8QsRbs8/preview
 drive2Id: 1HIP5o0dnGWVWexZVRTnwyCK3lE4gR5FX/preview
 ---
@@ -18,6 +17,10 @@ Archons
 mp3 embed
 
 <audio src="https://drive.google.com/file/d/1rztmooNmzDiLrM_XYtI_p8j_IlUPhPNd/preview" controls preload></audio>
+
+
+
+<audio src="https://stefanwiebe.com/Stereotype_FinalMix.mp3" controls preload></audio>
 
 
 <iframe src="https://drive.google.com/file/d/1rztmooNmzDiLrM_XYtI_p8j_IlUPhPNd/preview" width="320" height="60"></iframe>
