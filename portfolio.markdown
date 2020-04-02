@@ -17,6 +17,13 @@ Archons
 
 mp3 embed
 
+
+<audio class="audio" controls preload>
+<source src="//stefanwiebe.com/Stereotype.mp3"></source>
+<source src="//stefanwiebe.com/Stereotype.ogg"></source>
+</audio>
+
+
 <audio src="https://drive.google.com/file/d/1rztmooNmzDiLrM_XYtI_p8j_IlUPhPNd/preview" controls preload></audio>
 
 
