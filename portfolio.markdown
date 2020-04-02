@@ -5,32 +5,38 @@ drive1Id: 13syBX6dVuskWatuMuEOT28ZLb8QsRbs8/preview
 drive2Id: 1HIP5o0dnGWVWexZVRTnwyCK3lE4gR5FX/preview
 ---
 
+Here are some examples of my recent recording work:
 
-test audio
+Brahms Horn Trio - Movement 4
+
+<audio class="audio" controls preload>
+<source src="//stefanwiebe.com/brahmshorn.mp3"></source>
+<source src="//stefanwiebe.com/brahmshorn.ogg"></source>
+</audio>
+
 
 Britten War Requiem
 
-{% include googleDrivePlayer.html id=page.drive1Id %}
-Archons
+Movement 2 Excerpt
 
-{% include googleDrivePlayer.html id=page.drive2Id %}
+<audio class="audio" controls preload>
+<source src="//stefanwiebe.com/britten2.mp3"></source>
+<source src="//stefanwiebe.com/britten2.ogg"></source>
+</audio>
 
-mp3 embed
 
+Matthew Schultheis/IU Jacobs New Music Ensemble: Archons - Excerpt
+
+<audio class="audio" controls preload>
+<source src="//stefanwiebe.com/archons.mp3"></source>
+<source src="//stefanwiebe.com/archons.ogg"></source>
+</audio>
+
+
+Huckleberry Funk: Stereotype
 
 <audio class="audio" controls preload>
 <source src="//stefanwiebe.com/Stereotype.mp3"></source>
 <source src="//stefanwiebe.com/Stereotype.ogg"></source>
 </audio>
 
-
-<audio src="https://drive.google.com/file/d/1rztmooNmzDiLrM_XYtI_p8j_IlUPhPNd/preview" controls preload></audio>
-
-
-
-<audio src="https://stefanwiebe.com/Stereotype_FinalMix.mp3" controls preload></audio>
-
-
-<iframe src="https://drive.google.com/file/d/1rztmooNmzDiLrM_XYtI_p8j_IlUPhPNd/preview" width="320" height="60"></iframe>
-
-mp3_embed(<iframe src="https://drive.google.com/file/d/1rztmooNmzDiLrM_XYtI_p8j_IlUPhPNd/preview" width="640" height="480"></iframe>)
