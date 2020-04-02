@@ -4,3 +4,12 @@
 
 layout: home
 ---
+
+##About Me:
+
+My name is Stefan Wiebe, and I'm a senior at the IU Jacobs School of Music 
+studying audio engineering and trombone performance, with minors in 
+informatics and mathematics.
+Take a look at my background page to read more about me, and please 
+scroll through my resume as well.
+Thanks for visiting!
