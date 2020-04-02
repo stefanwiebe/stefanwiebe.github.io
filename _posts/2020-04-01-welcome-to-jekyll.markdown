@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "Stefan Wiebe"
 date:   2020-04-01 11:43:24 -0400
 categories: jekyll update
