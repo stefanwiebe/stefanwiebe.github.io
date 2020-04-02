@@ -18,11 +18,9 @@ Archons
 
 mp3 embed
 
-<iframe src="https://drive.google.com/file/d/1rztmooNmzDiLrM_XYtI_p8j_IlUPhPNd/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1rztmooNmzDiLrM_XYtI_p8j_IlUPhPNd/preview" width="320" height="60"></iframe>
 
-#(source: <a href="http://freemusicarchive.org/music/Paper_Navy/All_Grown_Up/08_Swan_Song" class="gray">FMA</a>)
-
-#mp3_embed(<iframe src="https://drive.google.com/file/d/1rztmooNmzDiLrM_XYtI_p8j_IlUPhPNd/preview" width="640" height="480"></iframe>)
+mp3_embed(<iframe src="https://drive.google.com/file/d/1rztmooNmzDiLrM_XYtI_p8j_IlUPhPNd/preview" width="640" height="480"></iframe>)
 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
