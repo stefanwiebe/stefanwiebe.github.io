@@ -1,14 +1,18 @@
 ---
 layout: post
-title:  "Stefan Wiebe"
+title:  "My Work"
 date:   2020-04-01 11:43:24 -0400
 categories: jekyll update
-driveId: 13syBX6dVuskWatuMuEOT28ZLb8QsRbs8/preview
+drive1Id: 13syBX6dVuskWatuMuEOT28ZLb8QsRbs8/preview
+drive2Id: 1HIP5o0dnGWVWexZVRTnwyCK3lE4gR5FX/preview
 ---
 
 test audio
 
-{% include googleDrivePlayer.html id=page.driveId %}
+Britten War Requiem
+{% include googleDrivePlayer.html id=page.drive1Id %}
+Archons
+{% include googleDrivePlayer.html id=page.drive2Id %}
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
