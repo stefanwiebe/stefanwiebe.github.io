@@ -17,22 +17,22 @@ Here are some examples of my recent recording work:
 
 #### Britten War Requiem
 
-Movement 2 Excerpt:
 
+##### Movement 2 Excerpt:  
 <audio class="audio" controls preload>
 <source src="//stefanwiebe.com/assets/britten2.mp3"></source>
 <source src="//stefanwiebe.com/assets/britten2.ogg"></source>
 </audio>
 
-Movement 4 Excerpt:
 
+##### Movement 4 Excerpt:  
 <audio class="audio" controls preload>
 <source src="//stefanwiebe.com/assets/britten4.mp3"></source>
 <source src="//stefanwiebe.com/assets/britten4.ogg"></source>
 </audio>
 
-Movement 5:
 
+##### Movement 5:   
 <audio class="audio" controls preload>
 <source src="//stefanwiebe.com/assets/britten5.mp3"></source>
 <source src="//stefanwiebe.com/assets/britten5.ogg"></source>
@@ -40,16 +40,14 @@ Movement 5:
 
 
 
-#### Matthew Schultheis/IU Jacobs New Music Ensemble: Archons - Excerpt
-
+#### Matthew Schultheis/IU Jacobs New Music Ensemble: Archons - Excerpt  
 <audio class="audio" controls preload>
 <source src="//stefanwiebe.com/assets/archons.mp3"></source>
 <source src="//stefanwiebe.com/assets/archons.ogg"></source>
 </audio>
 
 
-#### Huckleberry Funk: Stereotype
-
+#### Huckleberry Funk: Stereotype  
 <audio class="audio" controls preload>
 <source src="//stefanwiebe.com/assets/Stereotype.mp3"></source>
 <source src="//stefanwiebe.com/assets/Stereotype.ogg"></source>
