@@ -24,6 +24,21 @@ Movement 2 Excerpt:
 <source src="//stefanwiebe.com/britten2.ogg"></source>
 </audio>
 
+Movement 4 Excerpt:
+
+<audio class="audio" controls preload>
+<source src="//stefanwiebe.com/britten4.mp3"></source>
+<source src="//stefanwiebe.com/britten4.ogg"></source>
+</audio>
+
+Movement 5:
+
+<audio class="audio" controls preload>
+<source src="//stefanwiebe.com/britten5.mp3"></source>
+<source src="//stefanwiebe.com/britten5.ogg"></source>
+</audio>
+
+
 
 #### Matthew Schultheis/IU Jacobs New Music Ensemble: Archons - Excerpt
 
