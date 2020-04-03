@@ -2,6 +2,7 @@
 <html>
 
   {% include head.html %}
+  
 
   <body>
 
@@ -35,10 +36,11 @@
                 </div>
                 <div class="inline-block mt-3">
                   {% include github.html %}
+				  <p class="h4 lh-condensed font-smoothing mt-2 py-1"> &nbsp; Audio Engineer</p>
                 </div>
               </div>
-              <!-- Set site description in config.yml -->
-              <p class="h4 lh-condensed font-smoothing mt-2 py-1">{{ site.description }}</p>
+              <!-- Set site description in config.yml 
+              <p class="h4 lh-condensed font-smoothing mt-2 py-1">{{ site.description }}</p> -->
             </div>
 
             <div class="col-4 sm-width-full left border-top-thin mt-3 mt-lg-0 ml-lg-4 table">
@@ -47,6 +49,7 @@
                 </div>
                 <div class="inline-block mt-3">
                   {% include {{ site.social_link | default: "twitter" }}.html %}
+				  <p class="h4 lh-condensed font-smoothing mt-2 py-1"> &nbsp; Trombonist</p>
                 </div>
             </div>
           </div>

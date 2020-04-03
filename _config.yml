@@ -28,8 +28,8 @@ twitter_username:
 github_username:  
 
 header_pages: 
- - bio.html
  - portfolio.html
+ - bio.html
 
 # Build settings
 #theme: minima

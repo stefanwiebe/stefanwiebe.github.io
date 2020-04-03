@@ -7,7 +7,7 @@ drive2Id: 1HIP5o0dnGWVWexZVRTnwyCK3lE4gR5FX/preview
 
 Here are some examples of my recent recording work:
 
-Brahms Horn Trio - Movement 4
+#### Brahms Horn Trio - Movement 4
 
 <audio class="audio" controls preload>
 <source src="//stefanwiebe.com/brahmshorn.mp3"></source>
@@ -15,9 +15,9 @@ Brahms Horn Trio - Movement 4
 </audio>
 
 
-Britten War Requiem
+#### Britten War Requiem
 
-Movement 2 Excerpt
+Movement 2 Excerpt:
 
 <audio class="audio" controls preload>
 <source src="//stefanwiebe.com/britten2.mp3"></source>
@@ -25,7 +25,7 @@ Movement 2 Excerpt
 </audio>
 
 
-Matthew Schultheis/IU Jacobs New Music Ensemble: Archons - Excerpt
+#### Matthew Schultheis/IU Jacobs New Music Ensemble: Archons - Excerpt
 
 <audio class="audio" controls preload>
 <source src="//stefanwiebe.com/archons.mp3"></source>
@@ -33,7 +33,7 @@ Matthew Schultheis/IU Jacobs New Music Ensemble: Archons - Excerpt
 </audio>
 
 
-Huckleberry Funk: Stereotype
+#### Huckleberry Funk: Stereotype
 
 <audio class="audio" controls preload>
 <source src="//stefanwiebe.com/Stereotype.mp3"></source>
