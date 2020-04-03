@@ -21,11 +21,15 @@
 title: Stefan Wiebe
 email: sgfwiebe@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Stefan Wiebe | Audio Engineer | Trombonist
+  Audio Engineer | Trombonist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stefanwiebe.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
+
+header_pages: 
+ - bio.html
+ - portfolio.html
 
 # Build settings
 #theme: minima
