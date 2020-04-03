@@ -8,7 +8,7 @@ title:  "Contact Me"
 
 ### Other:
 
-<a href="youtube.com/sgfwiebe">Youtube</a>
+<a href="https://www.youtube.com/channel/UCPPiTxby2JtSCGpyw2P66Rg">Youtube</a>
 
 <a href="https://www.linkedin.com/in/stefanwiebe/">LinkedIn</a>
 
