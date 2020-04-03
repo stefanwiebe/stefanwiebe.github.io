@@ -10,8 +10,8 @@ Here are some examples of my recent recording work:
 #### Brahms Horn Trio - Movement 4
 
 <audio class="audio" controls preload>
-<source src="//stefanwiebe.com/brahmshorn.mp3"></source>
-<source src="//stefanwiebe.com/brahmshorn.ogg"></source>
+<source src="//stefanwiebe.com/assets/brahmshorn.mp3"></source>
+<source src="//stefanwiebe.com/assets/brahmshorn.ogg"></source>
 </audio>
 
 
@@ -20,22 +20,22 @@ Here are some examples of my recent recording work:
 Movement 2 Excerpt:
 
 <audio class="audio" controls preload>
-<source src="//stefanwiebe.com/britten2.mp3"></source>
-<source src="//stefanwiebe.com/britten2.ogg"></source>
+<source src="//stefanwiebe.com/assets/britten2.mp3"></source>
+<source src="//stefanwiebe.com/assets/britten2.ogg"></source>
 </audio>
 
 Movement 4 Excerpt:
 
 <audio class="audio" controls preload>
-<source src="//stefanwiebe.com/britten4.mp3"></source>
-<source src="//stefanwiebe.com/britten4.ogg"></source>
+<source src="//stefanwiebe.com/assets/britten4.mp3"></source>
+<source src="//stefanwiebe.com/assets/britten4.ogg"></source>
 </audio>
 
 Movement 5:
 
 <audio class="audio" controls preload>
-<source src="//stefanwiebe.com/britten5.mp3"></source>
-<source src="//stefanwiebe.com/britten5.ogg"></source>
+<source src="//stefanwiebe.com/assets/britten5.mp3"></source>
+<source src="//stefanwiebe.com/assets/britten5.ogg"></source>
 </audio>
 
 
@@ -43,15 +43,15 @@ Movement 5:
 #### Matthew Schultheis/IU Jacobs New Music Ensemble: Archons - Excerpt
 
 <audio class="audio" controls preload>
-<source src="//stefanwiebe.com/archons.mp3"></source>
-<source src="//stefanwiebe.com/archons.ogg"></source>
+<source src="//stefanwiebe.com/assets/archons.mp3"></source>
+<source src="//stefanwiebe.com/assets/archons.ogg"></source>
 </audio>
 
 
 #### Huckleberry Funk: Stereotype
 
 <audio class="audio" controls preload>
-<source src="//stefanwiebe.com/Stereotype.mp3"></source>
-<source src="//stefanwiebe.com/Stereotype.ogg"></source>
+<source src="//stefanwiebe.com/assets/Stereotype.mp3"></source>
+<source src="//stefanwiebe.com/assets/Stereotype.ogg"></source>
 </audio>
 

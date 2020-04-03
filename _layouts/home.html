@@ -12,20 +12,37 @@
 
         <div class="clearfix border-bottom-thick header-border">
           <ul class="list-reset right py-1 header-text font-smoothing">
-            {% for my_page in site.pages %}
+   <!--        {% for my_page in site.pages %}
               {% if my_page.title %}
-              <li class="inline-block">
+               <li class="inline-block">
                 <a class="align-middle link-primary header-link mr-2" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
               </li>
               {% endif %}
             {% endfor %}
-          </ul>
-        </div>
+			
+			
+	    ///from header.hml:
+	  	<ul class="list-reset mt-lg-1 mb-2 mb-lg-1">     --> 
+        <li class="inline-block">
+          <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="{{ my_page.url }}/bio">
+		Bio
+          </a>
+		  <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="{{ my_page.url }}/portfolio">
+		Portfolio
+          </a>
+		  		  <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="{{ my_page.url }}/contact">
+		Contact
+          </a>
+        </li>
+</ul>
+
+		  </div>
 
         <div class="container mx-auto px-2 mb-2 clearfix header-text">
           <h1 class="h0 inline-block col-9 sm-width-full py-4 mt-3 header-title">{{ site.title }}</h1>
 
           <div class="clearfix mb-4 py-1">
+<!--              <p class="h4 lh-condensed font-smoothing mt-2 py-1">{{ site.description }}</p> -->
             <div class="col-4 sm-width-full left border-top-thin">
               <div class="table">
                 <div class="inline-block mt-3 mr-1">
@@ -36,11 +53,11 @@
                 </div>
                 <div class="inline-block mt-3">
                   {% include github.html %}
-				  <p class="h4 lh-condensed font-smoothing mt-2 py-1"> &nbsp; Audio Engineer</p>
+				  <p class="h4 lh-condensed font-smoothing mt-2 py-1"> 
+				  Audio Engineer</p>
                 </div>
               </div>
-              <!-- Set site description in config.yml 
-              <p class="h4 lh-condensed font-smoothing mt-2 py-1">{{ site.description }}</p> -->
+              <!-- Set site description in config.yml -->
             </div>
 
             <div class="col-4 sm-width-full left border-top-thin mt-3 mt-lg-0 ml-lg-4 table">
@@ -49,7 +66,8 @@
                 </div>
                 <div class="inline-block mt-3">
                   {% include {{ site.social_link | default: "twitter" }}.html %}
-				  <p class="h4 lh-condensed font-smoothing mt-2 py-1"> &nbsp; Trombonist</p>
+				  <p class="h4 lh-condensed font-smoothing mt-2 py-1"> 
+					Trombonist</p>
                 </div>
             </div>
           </div>
