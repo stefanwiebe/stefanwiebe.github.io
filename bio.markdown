@@ -5,14 +5,14 @@ drive1Id: 13syBX6dVuskWatuMuEOT28ZLb8QsRbs8/preview
 drive2Id: 1HIP5o0dnGWVWexZVRTnwyCK3lE4gR5FX/preview
 ---
 
-<img src="//stefanwiebe.com/assets/headshot3.jpg" align="right" />
+<img src="{{ my_page.url }}/assets/headshot3.jpg" style="padding:20px;" align="left" />
 
 Stefan Wiebe is an audio engineer and trombone player, currently in his senior year studying at
 the Jacobs School of Music at Indiana University in the studio of Carl Lenthe, pursuing a double
 degree in audio and performance, also minoring in mathematics and informatics. He is
 originally from Lancaster, Pennsylvania. Stefan has recorded many different ensembles at IU
 and independently, and he is currently working towards releasing two solo CDs for Denson Paul
-Pollard, trombonist in the Metropolitan Opera Orchestra and professor at the Jacobs School.
+Pollard, trombonist in the Metropolitan Opera Orchestra and professor at the IU.
 
 
 Performing at IU, Stefan has had the opportunity to perform with the Philharmonic, Concert,
