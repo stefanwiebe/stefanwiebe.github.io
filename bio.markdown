@@ -5,6 +5,8 @@ drive1Id: 13syBX6dVuskWatuMuEOT28ZLb8QsRbs8/preview
 drive2Id: 1HIP5o0dnGWVWexZVRTnwyCK3lE4gR5FX/preview
 ---
 
+<img src="//stefanwiebe.com/assets/headshot3.jpg" align="right" />
+
 Stefan Wiebe is an audio engineer and trombone player, currently in his senior year studying at
 the Jacobs School of Music at Indiana University in the studio of Carl Lenthe, pursuing a double
 degree in audio and performance, also minoring in mathematics and informatics. He is
