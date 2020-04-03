@@ -10,4 +10,8 @@ drive2Id: 1HIP5o0dnGWVWexZVRTnwyCK3lE4gR5FX/preview
 
 ### Other:
 
-<a href="youtube.com/sgfwiebe">Youtube</a>
+<a href="https://www.youtube.com/sgfwiebe">Youtube</a>
+
+<a href="https://www.linkedin.com/in/stefanwiebe/">LinkedIn</a>
+
+<a href="https://soundcloud.com/stefan-wiebe-534916638">Soundcloud</a>
